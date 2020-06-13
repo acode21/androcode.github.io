@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>html on AndroCode</title>
-		<link>https://androcode.netlify.app/categories/html/</link>
+		<link>https://irhams.netlify.app/categories/html/</link>
 		<description>Recent content in html on AndroCode</description>
 		<generator>Hugo -- gohugo.io</generator>
 		
@@ -11,29 +11,29 @@
     	
   		<lastBuildDate>Fri, 29 May 2020 12:46:10 +0700</lastBuildDate>
 		
-		<atom:link href="https://androcode.netlify.app/categories/html/" rel="self" type="application/rss+xml" />
+		<atom:link href="https://irhams.netlify.app/categories/html/" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Belajar Python : Tipe Data Python</title>
-			<link>https://androcode.netlify.app/post/belajar-python-tipe-data-python/</link>
+			<link>https://irhams.netlify.app/post/belajar-python-tipe-data-python/</link>
 			<pubDate>Sat, 13 Jun 2020 09:14:04 +0700</pubDate>
-			<guid>https://androcode.netlify.app/post/belajar-python-tipe-data-python/</guid>
+			<guid>https://irhams.netlify.app/post/belajar-python-tipe-data-python/</guid>
 			<description>&lt;p&gt;Variable dapat menyimpan nilai dari tepe data yang berbeda.&lt;/p&gt;</description>
 		</item>
       	
 		<item>
 			<title>Belajar Python : Variables Python</title>
-			<link>https://androcode.netlify.app/post/belajar-python-variables-python/</link>
+			<link>https://irhams.netlify.app/post/belajar-python-variables-python/</link>
 			<pubDate>Wed, 10 Jun 2020 10:48:47 +0700</pubDate>
-			<guid>https://androcode.netlify.app/post/belajar-python-variables-python/</guid>
+			<guid>https://irhams.netlify.app/post/belajar-python-variables-python/</guid>
 			<description>&lt;p&gt;Variable adalah nama yang di gunakan untuk merujuk lokasi memori.&lt;/p&gt;</description>
 		</item>
       	
 		<item>
 			<title>Belajar Python : Fitur Python</title>
-			<link>https://androcode.netlify.app/post/belajar-python-fitur-python/</link>
+			<link>https://irhams.netlify.app/post/belajar-python-fitur-python/</link>
 			<pubDate>Sat, 06 Jun 2020 10:17:44 +0700</pubDate>
-			<guid>https://androcode.netlify.app/post/belajar-python-fitur-python/</guid>
+			<guid>https://irhams.netlify.app/post/belajar-python-fitur-python/</guid>
 			<description>&lt;p&gt;Python menyediakan banyak fitue yang tercantum di bawah ini :&lt;/p&gt;
 &lt;h3 id=&#34;1-mudah-dipelajari-dan-digunakan&#34;&gt;1. Mudah dipelajari dan digunakan&lt;/h3&gt;
 &lt;p&gt;Python mudah dipahami dan dipelajari dan digunakan. Ini alasan bahsasa pemrograman tingkat tinggi yang ramah bagi pengembang.&lt;/p&gt;</description>
@@ -41,26 +41,26 @@
       	
 		<item>
 			<title>Belajar Python : Pengenalan Python</title>
-			<link>https://androcode.netlify.app/post/belajar-python-pengenalan-python/</link>
+			<link>https://irhams.netlify.app/post/belajar-python-pengenalan-python/</link>
 			<pubDate>Sat, 06 Jun 2020 08:50:27 +0700</pubDate>
-			<guid>https://androcode.netlify.app/post/belajar-python-pengenalan-python/</guid>
+			<guid>https://irhams.netlify.app/post/belajar-python-pengenalan-python/</guid>
 			<description>&lt;h1 id=&#34;apa-itu-python-&#34;&gt;Apa itu Python ?&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt; merupakan bahasa pemrograman umum, dinamis, tingkat tinggi yang di racik oleh &lt;strong&gt;Guido van Rossum&lt;/strong&gt;.&lt;/p&gt;</description>
 		</item>
       	
 		<item>
 			<title>Belajar HTML: Mengenal Tag, Element, Atribut Html</title>
-			<link>https://androcode.netlify.app/post/belajar-html-mengenal-tag-element-atribut-html/</link>
+			<link>https://irhams.netlify.app/post/belajar-html-mengenal-tag-element-atribut-html/</link>
 			<pubDate>Fri, 29 May 2020 12:46:10 +0700</pubDate>
-			<guid>https://androcode.netlify.app/post/belajar-html-mengenal-tag-element-atribut-html/</guid>
+			<guid>https://irhams.netlify.app/post/belajar-html-mengenal-tag-element-atribut-html/</guid>
 			<description>&lt;p&gt;Swtelah sebelumnya kita membahas pengenalan Html, text editor, kini kita akan memasuki&lt;/p&gt;</description>
 		</item>
       	
 		<item>
 			<title>Belajar HTML: Pengertian Html</title>
-			<link>https://androcode.netlify.app/post/belajar-html-pengertian-html/</link>
+			<link>https://irhams.netlify.app/post/belajar-html-pengertian-html/</link>
 			<pubDate>Fri, 29 May 2020 10:50:38 +0700</pubDate>
-			<guid>https://androcode.netlify.app/post/belajar-html-pengertian-html/</guid>
+			<guid>https://irhams.netlify.app/post/belajar-html-pengertian-html/</guid>
 			<description>&lt;p&gt;HTML mereupakan unsur dasar dari pembangunan website. karna bentuk dari halaman website di buat menggunakan HTML.&lt;/p&gt;</description>
 		</item>
       	
