@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<title>Belajar Python : Variables Python</title>
+
+
+  
+  
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168737261-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-168737261-1');
+</script>
+
+  
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/rss+xml" href="https://acode21.github.io/androcode21.github.io/index.xml" title="Hugo Themes">
+
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+<link id="dark-mode-theme" rel="stylesheet" href="https://themes.gohugo.io//theme/harbor/css/dark.css" />
+<link rel="stylesheet" href="https://themes.gohugo.io//theme/harbor/fontawesome/css/all.min.css" />
+
+<script src="https://themes.gohugo.io//theme/harbor/js/bundle.js"></script>
+<script src="https://themes.gohugo.io//theme/harbor/js/instantpage.js" type="module" defer></script>
+<meta name="generator" content="Hugo 0.71.0" />
+  </head>
+  <body>
+    
+  
+
+
+
+
+  <header>
+    <nav class="navbar">
+  <div class="nav">
+    
+      <a href="https://androcode.netlify.app" class="nav-logo">
+      <img src="https://androcode.netlify.appimages/images.png"
+           width="50"
+           height="50"
+           alt="Androcode">
+      </a>
+    
+
+    <ul class="nav-links">
+      
+        
+          <li><a href="/about/" name="About"><i class="fas fa-user fa-lg"></i></a></li>
+        
+      
+        
+          <li><a href="/tags" name="Tags"><i class="fas fa-tag fa-lg"></i></a></li>
+        
+      
+        
+          <li><a href="/search" name="Search"><i class="fas fa-search fa-lg"></i></a></li>
+        
+      
+        
+          <li><a href="/archives" name="Archives"><i class="fas fa-archive fa-lg"></i></a></li>
+        
+      
+    </ul>
+  </div>
+</nav>
+
+    <div class="intro-header">
+      <div class="container">
+        <div class="post-heading">
+          
+            <h1>Belajar Python : Variables Python</h1>
+          
+          
+            <span class="meta-post">
+  <i class="fa fa-calendar-alt"></i>&nbsp;Jun 10, 2020
+  
+    &nbsp;&nbsp;&nbsp;<i class="fa fa-folder-open"></i>&nbsp;
+    
+      <a href="https://androcode.netlify.app/categories/python/">Python</a>&nbsp;
+    
+  
+</span>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+  <div class="container" role="main">
+    <article class="article" class="blog-post">
+      
+    <p>Variable adalah nama yang di gunakan untuk merujuk lokasi memori.</p>
+<p>Variable juga di kenal sebagai pengidentifikasi dan digunakan untuk menyimpan nilai
+Dalam python kita tidak perlu menentukan jenis variable karena python adalah jenis bahasa yang disimpulkan dan cukup pintar untuk mendapatkan jenis variable.
+Nama variable dapat berupa kelompok huruf dan angk, tetapi harus di awali dengan huruf atau garis bawah/underscore.
+Dianjurkan untuk menggunakan huruf keciluntuk nama variable.
+Satu dan satu adalah dua variable yang berbeda.</p>
+<h4 id="penamaan-identifier">Penamaan Identifier</h4>
+<p>Variable adalah contoh pengidentifikasi Identifier digunakan untuk mengidentifikasi literal yang di gunakan dalam progrogram
+Aturan untuk memberi nama seperti di hawah.</p>
+<ul>
+<li>Karakter pertama harus berupa huruf atau underscore.</li>
+<li>Semua karakter kecuali karakter pertama mungkin merupakan huruf kecil (a-z), huruf besar (A-Z) atau underscore dan digit (0_9).</li>
+<li>Nama pengidentifikasi tidak boleh  mengandung spasi atau karaker khusus (!, @, #,%, ^, &amp;, * ).</li>
+<li>Nama pengidentifikasi tiak boleh mirip dengan kata kunci apapun yang di tentukan dalam bahasa.</li>
+<li>Nama pengenal terhadap huruf besar kecil, misal myname dan Myname tidak sama.</li>
+<li>Contoh pengidentifikasi yang valid (a123,_ n,n_9).</li>
+<li>Contoh pengidentifikasi yang tidak valid (1a,n%4,n 9).</li>
+</ul>
+<h4 id="mendeklarasikan-variable-dan-menetapkan-nilai">Mendeklarasikan variable dan menetapkan nilai</h4>
+<p>Python tidak mengikat kita untuk Mendeklarasikan variale sebelum di gunakan dalam aplikasi, ini memungkinkan kita membuat variable pada waktu yang di perlukan.
+Kita tidak perlu Mendeklarasikan variable eksplisit dalam python. ketika kami memberikan nilai apapun ke variable itu variable tersebut dinyatakan secara otomatis.
+Operator (=) digunakan untuk menetapkan nilai ke Variable.</p>
+<h6 id="misalnya">Misalnya</h6>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">a <span style="color:#f92672">=</span> <span style="color:#ae81ff">10</span>  <span style="color:#75715e">#a = variable, 10 = values atau nilai</span>
+name <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;andro&#34;</span> <span style="color:#75715e">#name = variable, andro = values atau nilai</span>
+<span style="color:#66d9ef">print</span> (a)
+<span style="color:#66d9ef">print</span> (name)</code></pre></div>
+<h6 id="output">output</h6>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell"><span style="color:#ae81ff">10</span>
+andro</code></pre></div>
+<h4 id="penugasan-berganda">Penugasan berganda</h4>
+<p>Python memungkinkan kita menetapkan nilai ke dalam beberapa variable dalam satu pernyataan yang juga di kenal sebagai banyak tugas.
+Kita bisa menetapkan beberapa penugasan dengan dua cara baik dengan menerapkan nilai tunggal ke beberapa variable atau menetapkan beberapa nilai ke beberapa variable.</p>
+<h4 id="1-menerapkan-nilai-tunggal-ke-beberapa-variable-">1. Menerapkan nilai tunggal ke beberapa variable :</h4>
+<h6 id="misalnya-1">Misalnya</h6>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">  
+a<span style="color:#f92672">=</span>b<span style="color:#f92672">=</span>c<span style="color:#f92672">=</span> <span style="color:#ae81ff">10</span>
+<span style="color:#66d9ef">print</span> (a)
+<span style="color:#66d9ef">print</span> (b)
+<span style="color:#66d9ef">print</span> (c)</code></pre></div>
+<h6 id="output-1">output</h6>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell"><span style="color:#ae81ff">10</span>
+<span style="color:#ae81ff">10</span>
+<span style="color:#ae81ff">10</span></code></pre></div>
+<h4 id="2-menugaskan-beberapa-nilai-ke-beberapa-variable-">2. Menugaskan beberapa nilai ke beberapa variable :</h4>
+<h6 id="misalnya-2">Misalnya</h6>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">a,b,c<span style="color:#f92672">=</span> <span style="color:#ae81ff">10</span>,<span style="color:#ae81ff">20</span>,<span style="color:#ae81ff">30</span>
+<span style="color:#66d9ef">print</span> (a)
+<span style="color:#66d9ef">print</span> (b)
+<span style="color:#66d9ef">print</span> (c)</code></pre></div>
+<h6 id="output-2">output</h6>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell"><span style="color:#ae81ff">10</span>
+<span style="color:#ae81ff">20</span>
+<span style="color:#ae81ff">30</span></code></pre></div>
+<p>Nilai-nilai akan di berikan dalam urutan di mana variable muncul.</p>
+<h4 id="fundamental-dasar">Fundamental Dasar</h4>
+<p>Berikut ini berisi dasar-dasar python :
+Bagian ini berisi dasar-dasar dasar Python seperti:</p>
+<p>i) Token dan tipenya.</p>
+<p>ii) Komentar</p>
+<p>a) Token:</p>
+<p>Token dapat didefinisikan sebagai tanda punctuator, kata-kata yang dicadangkan, dan setiap kata individual dalam sebuah pernyataan.
+Token adalah unit terkecil di dalam program yang diberikan.
+Ada token berikut dalam Python:</p>
+<h4 id="kata-kunci">Kata kunci.</h4>
+<ul>
+<li>Pengidentifikasi.</li>
+<li>Literal.</li>
+<li>Operator.</li>
+</ul>
+<h4 id="tuples">Tuples:</h4>
+<ul>
+<li>Tuple adalah bentuk pengumpulan di mana berbagai jenis data dapat - disimpan.</li>
+<li>Ini mirip dengan daftar tempat data dipisahkan oleh koma. Hanya bedanya adalah bahwa daftar menggunakan braket persegi dan tupel menggunakan tanda kurung.</li>
+<li>Tuple terlampir dalam tanda kurung dan tidak dapat diubah.</li>
+</ul>
+
+
+      
+        <div class="blog-tags">
+          
+            <a href="https://androcode.netlify.app/tags/python/">python</a>&nbsp;
+          
+        </div>
+      
+    </article>
+    
+    
+    <div id="disqus_thread"></div>
+<script>
+
+
+
+
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = 'https://httpsandrocodenetlifyapp.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  </div>
+
+    <footer>
+  <div class="container">
+    <p class="credits copyright">
+      <a href="https://androcode.netlify.appabout">Androcode</a>
+      &nbsp;&copy;
+      2020
+
+      
+        &nbsp;/&nbsp;
+        <a href="https://androcode.netlify.app">AndroCode</a>
+      
+
+      &nbsp;&ndash;&nbsp;
+      <i class="fas fa-moon" id="dark-mode-toggle"></i>
+
+      <p class="credits theme-by">
+        Made With
+        &nbsp;
+        ❤️
+        &nbsp;
+        Using&nbsp;<a href="https://gohugo.io">Hugo</a>&nbsp;Theme <a href="https://github.com/matsuyoshi30/harbor">Harbor</a>
+      </p>
+    </p>
+  </div>
+</footer>
+
+  </body>
+</html>
